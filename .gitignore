@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+test_output_binary/
+test_output_multiclass/
+results/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.DS_Store
